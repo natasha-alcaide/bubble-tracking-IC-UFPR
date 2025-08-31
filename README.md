@@ -10,6 +10,8 @@ Este repositório contém o **notebook em Python (.ipynb)** desenvolvido no âmb
 
 O notebook foi implementado em **Python** e estruturado para execução no **Google Colab**.  
 Para reproduzir os experimentos, basta abrir o arquivo `.ipynb` neste repositório em sua própria conta do Google Colab.
+> Observação: o notebook contém um botão "Open in Colab" no início do arquivo, que permite abrir o código diretamente no ambiente Google Colab.
+
 
 ---
 
