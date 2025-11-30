@@ -33,3 +33,5 @@ Consulte o arquivo `LICENSE` para mais informações.
 Este notebook faz parte do relatório final de Iniciação Científica:
 
 ALCAIDE, N. *Mineração de dados petrolíferos usando técnicas de visão computacional em imagens de escoamento de petróleo*. Universidade Federal do Paraná, 2025.
+
+- O artigo do projeto está disponível no acervo da Biblioteca da UFPR: https://bibliotecas.ufpr.br/
